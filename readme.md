@@ -2,11 +2,13 @@
 
 > git grep + peco + editor
 
-## CLI
+## Install
 
 ```sh
 $ npm install --global git-grep-edit
 ```
+
+## Usage
 
 ```sh
 $ git-grep-edit word
