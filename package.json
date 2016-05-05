@@ -1,0 +1,21 @@
+{
+  "name": "git-grep-edit",
+  "version": "0.0.0",
+  "description": "git grep + peco + editor",
+  "license": "MIT",
+  "repository": "akameco/git-grep-edit",
+  "author": {
+    "name": "akameco",
+    "email": "akameco.t@gmail.com",
+    "url": "akameco.github.io"
+  },
+  "bin": "git-grep-edit.sh",
+  "files": [
+    "git-grep-edit.sh"
+  ],
+  "keywords": [
+    "git",
+    "gerp",
+    "peco"
+  ]
+}
