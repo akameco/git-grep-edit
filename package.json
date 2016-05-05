@@ -1,6 +1,6 @@
 {
   "name": "git-grep-edit",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "git grep + peco + editor",
   "license": "MIT",
   "repository": "akameco/git-grep-edit",
