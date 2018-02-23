@@ -1,5 +1,7 @@
 # git-grep-edit
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/akameco/git-grep-edit.svg)](https://greenkeeper.io/)
+
 > git grep + peco + editor
 
 ## Install
